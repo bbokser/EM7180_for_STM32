@@ -1,0 +1,3 @@
+This repository is provides C code for using the EM7180 sensor hub with STM32 boards, and is adapted from Kris Winer's EM7180_SENtral_sensor_hub library (which was written in C++ for Arduino).
+
+This library has been tested with the STM32 NUCLEO-F411RE and the EM7180 Ultimate Sensor Fusion Solution with the MPU9250 gyro/accelerometer and the BMP280 barometric pressure sensor. It can be further modified to work with the rest of the EM7180 Ultimate Sensor Fusion Solution boards.
